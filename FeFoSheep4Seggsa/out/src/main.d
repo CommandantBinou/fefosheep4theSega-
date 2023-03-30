@@ -1,0 +1,37 @@
+out/src/main.o: src/main.c D:/SegaDevKit/Tools/sgdk180/inc/genesis.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/types.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/config.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/asm.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/sys.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/sram.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/mapper.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/memory.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/memory_base.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/tools.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/bmp.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/maths.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/vdp.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/pal.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/dma.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/vdp_tile.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/vdp_bg.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/map.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/pool.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/object.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/font.h \
+ D:/SegaDevKit/Tools/sgdk180/res/libres.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/string.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/tab_cnv.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/maths3D.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/vdp_spr.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/vram.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/sprite_eng.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/sound.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/xgm.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/z80_ctrl.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/ym2612.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/psg.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/joy.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/timer.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/task.h \
+ D:/SegaDevKit/Tools/sgdk180/inc/task_cst.h
